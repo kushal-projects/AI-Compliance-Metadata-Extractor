@@ -1,0 +1,31 @@
+COMPLIANCE POLICY
+
+Policy Name: Information Security Policy
+Author: Compliance Department
+Last Updated Date: 2024-11-01
+Effective Date: 2025-01-01
+Version: 3.2
+Responsible Department: IT Department
+Contact Person: Jane Doe
+
+Table of Contents:
+1. Introduction
+2. Compliance Risk & Compliance Function
+3. Compliance Philosophy and Objective
+4. Coverage
+5. Organisation Structure
+6. Roles & Responsibilities
+7. Review Frequency
+8. Regulatory References
+
+Compliance Objective:
+To ensure staff awareness of rules and regulations, promote a preventive compliance culture, manage compliance risk effectively, and protect the organization's reputation.
+
+Review Frequency:
+Annual review and quarterly compliance risk assessments.
+
+Regulatory References:
+- RBI Circular DBS:CO:PP:BC 1 / 11.01 .005/ 2006-07 dated November 16, 2006
+- RBI Circular DBS.CO.PP.BC/11.01. 005/2006-07 dated 20.04.07
+- RBI Circular RBI/2014-15/489A DBS.CO.PPD.10946/ 11.01. 005/2014-15 March 04, 2015
+- RBI Circular RBI/2020-21/35 Ref. No.DoS.CO.PPG. /SEC. 02/11.01.005/2020-21 September 11, 2020
