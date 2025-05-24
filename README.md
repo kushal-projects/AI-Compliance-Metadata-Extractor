@@ -5,6 +5,10 @@
 
 ![Demo Screenshot](https://raw.githubusercontent.com/kushal-projects/AI-Compliance-Metadata-Extractor/main/assets/demo.png)
 
+## 🔗 App Link
+
+🚀 Check out the live demo on **Hugging Face Spaces**:  
+👉 [Compliance Metadata Extractor](https://huggingface.co/spaces/kushh108/compliance-metadata-extractor)
 ---
 
 ## 📌 Scope
@@ -26,10 +30,7 @@ Organizations often have hundreds of compliance documents spread across teams an
 ## 🚀 What This Does
 
 - 🗃️ **Takes PDF or plain text** files of compliance policies
-- 🔍 **Extracts metadata** fields like:
- Policy name, author, version, dates
-  - Responsible department, contact person
-  - Table of contents
+- 🔍 **Extracts metadata** fields like: Policy name, author, version, dates, department, contact, Table of contents
 - 🧠 Uses a lightweight **open-source LLM** (no API keys)
 - 🎛️ User-friendly **Gradio App Interface**
 - 📄 Outputs results in structured JSON and .txt formats
@@ -52,19 +53,12 @@ Organizations often have hundreds of compliance documents spread across teams an
 ---
 ## 📦 How to Run Locally
 
-1. **Clone the repo**
-git clone https://github.com/yourusername/compliance-metadata-extractor.git
-cd compliance-metadata-extractor
-
+1. **Clone the repository**
 2. **Install dependencies**
-pip install -r requirements.txt
-
-
 3. **Run the app**
-python app.py
-text
-- The app will open in your browser at `http://127.0.0.1:7860`
-- Or use `share=True` in `app.py` to get a public link
+4. Open your browser at [http://127.0.0.1:7860](http://127.0.0.1:7860)
+5. (Optional) To get a public link, set `share=True` in `app.py` in the `demo.launch()` line
+
 
 ## ⚠️ Limitations
 
