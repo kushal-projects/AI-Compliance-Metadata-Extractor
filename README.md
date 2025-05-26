@@ -48,7 +48,7 @@ Organizations often have hundreds of compliance documents spread across teams an
 | Tool | Role |
 |------|------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 🐍 Core programming language |
-| <img src="https://smol.p1x.in/img/tinyllama.gif" alt="TinyLlama" width="50"/> <br> **TinyLlama** | 🤖 Large Language Model |
+| <img src="https://smol.p1x.in/img/tinyllama.gif" alt="TinyLlama" width="70"/> <br> **TinyLlama** | 🤖 Large Language Model |
 | ![Pdfplumber](https://img.shields.io/badge/-pdfplumber-343541?style=flat&logo=adobe-acrobat-reader&logoColor=EC1C24) | 🧾 PDF text extraction |
 | ![Gradio](https://img.shields.io/badge/-Gradio-FF4C4C?style=flat&logo=gradio&logoColor=white) | 🎛 User interface for file input/output |
 | ![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black) | 📦 Model loading and tokenizer support |
@@ -63,6 +63,12 @@ Organizations often have hundreds of compliance documents spread across teams an
 3. **Run the app**
 4. Open your browser at [http://127.0.0.1:7860](http://127.0.0.1:7860)
 5. (Optional) To get a public link, set `share=True` in `app.py` in the `demo.launch()` line
+
+## Results
+| 📝 Compliance Document (Input) | 📤 Extracted Metadata (Output) |
+|:-----------------------------:|:------------------------------:|
+| <img src="Images/DOC_pg1.png" alt="Input Doc" width="300"/> | <img src="Images/Result.png" alt="Output Metadata" width="300"/> |
+
 
 
 ## ⚠️ Limitations
