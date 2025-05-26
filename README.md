@@ -48,7 +48,7 @@ Organizations often have hundreds of compliance documents spread across teams an
 | Tool | Role |
 |------|------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 🐍 Core programming language |
-| <img src="https://smol.p1x.in/img/tinyllama.gif" alt="TinyLlama" width="100"/> <br> TinyLlama | 🤖 Large Language Model |
+| <img src="https://smol.p1x.in/img/tinyllama.gif" alt="TinyLlama" width="50"/> <br> **TinyLlama** | 🤖 Large Language Model |
 | ![Pdfplumber](https://img.shields.io/badge/-pdfplumber-343541?style=flat&logo=adobe-acrobat-reader&logoColor=EC1C24) | 🧾 PDF text extraction |
 | ![Gradio](https://img.shields.io/badge/-Gradio-FF4C4C?style=flat&logo=gradio&logoColor=white) | 🎛 User interface for file input/output |
 | ![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black) | 📦 Model loading and tokenizer support |
