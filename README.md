@@ -7,8 +7,10 @@
 
 ## 🔗 App Link
 
+---
 🚀 Check out the live demo on **Hugging Face Spaces**:  
 👉 [AI Powered Compliance Metadata Extractor](https://huggingface.co/spaces/kushh108/compliance-metadata-extractor)
+---
 ---
 
 ## 📌 Scope
@@ -43,8 +45,7 @@ Organizations often have hundreds of compliance documents spread across teams an
 | Tool | Role |
 |------|------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 🐍 Core programming language |
-| ![TinyLlama](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/llama-logo.svg) | 🤖 Large Language Model |
-|:--:|:--|
+| ![TinyLlama](https://smol.p1x.in/img/tinyllama.gif) | 🤖 Large Language Model |
 | ![Pdfplumber](https://img.shields.io/badge/-pdfplumber-343541?style=flat&logo=adobe-acrobat-reader&logoColor=EC1C24) | 🧾 PDF text extraction |
 | ![Gradio](https://img.shields.io/badge/-Gradio-FF4C4C?style=flat&logo=gradio&logoColor=white) | 🎛 User interface for file input/output |
 | ![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black) | 📦 Model loading and tokenizer support |
@@ -111,9 +112,9 @@ Organizations often have hundreds of compliance documents spread across teams an
 
 ## 📬 Contact
 
-- 📧 Email: [23f3000514@ds.study.iitm.ac.in]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🌐 Portfolio: [yourwebsite.dev]
+- 📧 **Email**: [23f3000514@ds.study.iitm.ac.in](mailto:23f3000514@ds.study.iitm.ac.in)
+- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- 🌐 **Portfolio**: [yourwebsite.dev](https://yourwebsite.dev)
 
 ---
 
