@@ -3,12 +3,12 @@
 
 **AI-powered tool for extracting structured metadata from compliance policy documents (PDF or TXT) using the power of LLMs — no API needed!**
 
-![Demo Screenshot](https://raw.githubusercontent.com/kushal-projects/AI-Compliance-Metadata-Extractor/main/assets/demo.png)
+![Demo Screenshot](/Demo.png)
 
 ## 🔗 App Link
 
 🚀 Check out the live demo on **Hugging Face Spaces**:  
-👉 [Compliance Metadata Extractor](https://huggingface.co/spaces/kushh108/compliance-metadata-extractor)
+👉 [AI Powered Compliance Metadata Extractor](https://huggingface.co/spaces/kushh108/compliance-metadata-extractor)
 ---
 
 ## 📌 Scope
@@ -43,7 +43,8 @@ Organizations often have hundreds of compliance documents spread across teams an
 | Tool | Role |
 |------|------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | 🐍 Core programming language |
-| ![TinyLlama](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/llama-logo.svg) | 🤖 Compliance metadata extractor |
+| ![TinyLlama](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/llama-logo.svg) | 🤖 Large Language Model |
+|:--:|:--|
 | ![Pdfplumber](https://img.shields.io/badge/-pdfplumber-343541?style=flat&logo=adobe-acrobat-reader&logoColor=EC1C24) | 🧾 PDF text extraction |
 | ![Gradio](https://img.shields.io/badge/-Gradio-FF4C4C?style=flat&logo=gradio&logoColor=white) | 🎛 User interface for file input/output |
 | ![Hugging Face Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=flat&logo=huggingface&logoColor=black) | 📦 Model loading and tokenizer support |
@@ -73,30 +74,44 @@ Organizations often have hundreds of compliance documents spread across teams an
 
 ## 🚀 Scope for Improvement
 
-- ⚡ Integrate **powerful open-source LLMs** like:
+### 🧠 Model Upgrades
+- ⚡ Integrate **powerful open-source LLMs** such as:
   - 🔹 **Mistral-7B** – A robust and fast model for complex text understanding.
   - 🔹 **Mixtral** – A sparse mixture-of-experts model great for multitask comprehension.
   - 🔹 **Phi-2** by Microsoft – Small yet surprisingly accurate for task-specific compliance QA.
-- 🌍 Add multilingual support for international compliance policies.
-- 📊 Build an interactive **dashboard** to visualize extracted metadata and trends.
-- 🤖 Use **retrieval-augmented generation (RAG)** for context-aware extraction.
-- 🔧 Modularize the architecture to switch between LLMs and tailor pipelines by domain.
-- ☁️ Add cloud deployment (e.g., with Hugging Face Hub + Inference API) for scalable, on-demand usage.
+
+### 🚫 Why Not Mistral-7B?
+
+**Mistral-7B** is a **robust** and **high-performing open-weight model** well-suited for complex text understanding tasks. However, it comes with **significant system requirements**:
+
+- 🧠 **Requires 16–32 GB of GPU VRAM**  
+- 💻 **Needs ≥48 GB of system RAM**  
+- ⚙️ Optimized for high-end GPUs like **NVIDIA A100**, **RTX 3090**, or **RTX 4090**
+
+⚠️ **Due to limited hardware availability and system resource constraints**, implementing Mistral-7B was not feasible for this project.
+
+✅ Instead, the **TinyLlama** model was selected as a **lightweight**, efficient, and deployable alternative for resource-constrained environments.
+
+### 🌍 Feature Enhancements
+- 🌐 Add **multilingual support** for international compliance policies.
+- 📊 Build an **interactive dashboard** to visualize extracted metadata and trends.
+- 🤖 Use **retrieval-augmented generation (RAG)** for context-aware metadata extraction.
+- 🔧 **Modularize the architecture** to easily switch between LLMs and adapt pipelines by domain.
+- ☁️ Enable **cloud deployment** (e.g., Hugging Face Hub + Inference API) for scalable, on-demand usage.
+
 
 ---
 
 ## 👨‍💻 Author
 
-**Kushal**  
-AI/ML & Data Science Enthusiast  
-Focused on building real-world AI applications with language models and automation.
+**Kushal Tiwari**  
+**Building AI with Language Models & Automation:** Passionate about real-world AI/ML and data science applications
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [your.email@example.com]
-- 🐦 Twitter: [@yourhandle]
+- 📧 Email: [23f3000514@ds.study.iitm.ac.in]
 - 💼 LinkedIn: [linkedin.com/in/yourprofile]
 - 🌐 Portfolio: [yourwebsite.dev]
 
