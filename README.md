@@ -64,14 +64,12 @@ Organizations often have hundreds of compliance documents spread across teams an
 4. Open your browser at [http://127.0.0.1:7860](http://127.0.0.1:7860)
 5. (Optional) To get a public link, set `share=True` in `app.py` in the `demo.launch()` line
 
-## Results
+## 🔍 Results
 | 📝 Compliance Document (Input) | 📤 Extracted Metadata (Output) |
 |:-----------------------------:|:------------------------------:|
-| <img src="Images/DOC_pg1.png" alt="Input Doc" width="200"/> | <img src="Images/Result.png" alt="Output Metadata" width="600"/> |
-| <img src="Images/DOC_pg2.png" alt="Input Doc" width="200"/> |
+| <img src="Images/DOC_pg1.png" alt="Input Doc" width="200"/> <img src="Images/DOC_pg2.png" alt="Input Doc" width="200"/> | <img src="Images/Result.png" alt="Output Metadata" width="600"/> |
 
-**You may try it live using the app link above.**  
-**Processing time may vary depending on the size of the document.**
+**You may try it live using the app link above. Processing time may vary depending on the size of the document.**
 
 
 ## ⚠️ Limitations
