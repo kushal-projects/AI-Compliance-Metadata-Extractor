@@ -67,8 +67,11 @@ Organizations often have hundreds of compliance documents spread across teams an
 ## Results
 | 📝 Compliance Document (Input) | 📤 Extracted Metadata (Output) |
 |:-----------------------------:|:------------------------------:|
-| <img src="Images/DOC_pg1.png" alt="Input Doc" width="300"/> | <img src="Images/Result.png" alt="Output Metadata" width="300"/> |
+| <img src="Images/DOC_pg1.png" alt="Input Doc" width="200"/> | <img src="Images/Result.png" alt="Output Metadata" width="600"/> |
+| <img src="Images/DOC_pg2.png" alt="Input Doc" width="200"/> |
 
+**You may try it live using the app link above.**  
+**Processing time may vary depending on the size of the document.**
 
 
 ## ⚠️ Limitations
