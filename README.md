@@ -1,11 +1,11 @@
 <!-- Typing SVG Welcome (blue-purple color) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kushal+Tiwari;Aspiring+Data+Scientist+%7C+AI+%26+ML+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kushal+Tiwari;Aspiring+Data+Scientist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-  <b>🎓 Aspiring Data Scientist | 🧠 AI & ML AI/ML Practitioner | 📊 Data Analytics | 🤖 Computer Vision</b><br>
+  <b>🎓 Aspiring Data Scientist | 🧠 AI/ML Practitioner | 📊 Data Analytics | 🤖 Computer Vision</b><br>
   <i>Building impactful projects at the intersection of AI, automation, and analytics.</i>
 </p>
 
@@ -45,16 +45,16 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushaltiwari7&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaltiwari7&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kushal-projects&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-projects&layout=compact&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaltiwari7&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal-projects&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kushaltiwari7&theme=radical&column=4&margin-w=10&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kushal-projects&theme=radical&column=4&margin-w=10&margin-h=15"/>
 </p>
 
 ---
