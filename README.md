@@ -71,15 +71,16 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4895EF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
