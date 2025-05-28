@@ -3,6 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=43E97B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kushal+Tiwari;Aspiring+Data+Scientist+%7C+AI+%26+ML+Enthusiast;Welcome+to+my+GitHub+Portfolio!" alt="Typing SVG" />
 </p>
 
+<!-- Floating Emoji Art -->
+<p align="center" style="font-size:2em;">
+  ☁️ &nbsp; ☁️ &nbsp; ☁️<br>
+  &nbsp;&nbsp;☁️ 🛰️ ☁️<br>
+  ☁️ &nbsp; ☁️ &nbsp; ☁️
+</p>
+
 <!-- Profile GIF or Image -->
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Kushal waving" />
@@ -64,6 +71,40 @@ I enjoy working on full-cycle data projects — from data wrangling and visualiz
 
 ---
 
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushaltiwari7&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushaltiwari7&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushaltiwari7&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kushaltiwari7&theme=radical&column=4&margin-w=10&margin-h=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🤔 Did you know?
+
+- 🏎️ I love exploring how AI can be used in automotive and robotics.
+- 🧑‍💻 I enjoy hackathons and collaborative coding.
+- 🌱 Currently learning: advanced deep learning, MLOps, and cloud deployment.
+- 💡 Fun fact: I once built a computer vision project that tracks yoga poses in real time!
+
+---
+
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -80,9 +121,8 @@ I enjoy working on full-cycle data projects — from data wrangling and visualiz
 
 ---
 
-<!-- Optional: Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://komarev.com/ghpvc/?username=kushaltiwari7&label=Profile+visits&color=6c63ff&style=flat-square" alt="profile views"/>
 </p>
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
