@@ -42,6 +42,14 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
@@ -59,13 +67,6 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-
----
 
 ## 📫 Let's Connect!
 
