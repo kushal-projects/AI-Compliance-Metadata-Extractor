@@ -75,13 +75,12 @@ I'm a data science learner at IIT Madras, passionate about turning data into ins
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" height="28" style="vertical-align:middle;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/your-portfolio-link" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
